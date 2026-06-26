@@ -1,0 +1,13 @@
+{
+  "name": "discord-role-copy-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord pour dupliquer des rôles",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0",
+    "dotenv": "^17.4.2"
+  }
+}
